@@ -7,49 +7,77 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yuga+Iwata!+%F0%9F%91%8B;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-## 🌟 **About Me**
+## **About Me**
 
 <div align="center">
 
 <table>
 <tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
 </td>
-<td width="400" align="left">
+<td width="500" align="center">
 
-### 👋 **Hi, I'm Yuga Iwata!**
+### **Hi, I'm Yuga Iwata!**
 🌍 **Location:** Japan 🇯🇵  
 🎯 **Goal:** Creating amazing application  
 
 </td>
 </tr>
 </table>
+</div>
+
+## **Tech Stack**
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### **Languages**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,html,css,js,powershell" />
+
+### **Frameworks / Libraries**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,fastapi,unity" />
+
+### **Database**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### **Tools**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,notion,vscode,vercel,miro" />
+
+### **Design / Creative**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,blender" />
+
+### **Collaboration**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=discord,slack" />
+
+</td>
+</tr>
+</table>
+
+
+## 🚀 Featured Projects  
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Step&](https://github.com/) | AR×AIで歩行体験を冒険に変えるアプリ（取組中） | Unity / FastAPI / Docker |
+| [RAG](https://github.com/Lizqxel/callcenter-rag_poc/tree/main/rag-video-poc) | 動画マニュアルからRAG | Python / Ollama / Whisper |
+| [TelephoneTool](https://github.com/Lizqxel/TelephoneTool) | CTI自動入力・業務効率化ツール | Selenium / Python |
 
 </div>
 
-## 📊 **GitHub Analytics**
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,30,60&height=150&section=footer"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
-  ** [user](https://github.com/user) **
+  **[Lizqxel](https://github.com/Lizqxel)**
 </div>
