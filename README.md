@@ -28,17 +28,17 @@
 </table>
 </div>
 
-## **Tech Stack**
+## **Languages & Tools I've used / learning**
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
 ### **Languages**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,html,css,js,powershell" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,html,css,powershell" />
 
 ### **Frameworks / Libraries**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,fastapi,unity" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,fastapi,unity" />
 
 ### **Database**
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" />
