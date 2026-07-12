@@ -27,11 +27,11 @@
       <rect width="252" height="178" rx="22" fill="#08181D" fill-opacity="0.76" stroke="#BDEBED" stroke-opacity="0.17"/>
       <g clip-path="url(#visualClip)">
         <text x="18" y="25" fill="#8DB8BF" font-size="9.5" font-weight="700" letter-spacing="1.1">REAL CALL-CENTER FLOW</text>
-        <rect x="20" y="42" width="48" height="48" rx="16" fill="#35C9C4" fill-opacity="0.12" stroke="#63DAD6" stroke-opacity="0.24"/>
-        <path d="M35 56C37 66 44 73 54 77L61 68L53 62L48 68C44 66 41 63 39 59L44 54L38 47L31 53Z" fill="#56D9D3"/>
-        <text x="22" y="106" fill="#A8D2D5" font-size="8.5" font-weight="700">INCOMING</text>
-        <text x="31" y="117" fill="#A8D2D5" font-size="8.5" font-weight="700">CALL</text>
-        <path d="M72 66H88" stroke="#55D6D3" stroke-width="1.5" stroke-linecap="round"/>
+        <rect x="19" y="41" width="50" height="50" rx="17" fill="#35C9C4" fill-opacity="0.12" stroke="#63DAD6" stroke-opacity="0.24"/>
+        <path d="M25 53C28 51 31 49 34 48L40 55L36 60C40 66 45 71 51 75L56 70L63 76C62 80 60 83 56 86C42 81 31 70 25 56Z" fill="none" stroke="#56D9D3" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="44" y="106" text-anchor="middle" fill="#A8D2D5" font-size="8.5" font-weight="700">INCOMING</text>
+        <text x="44" y="117" text-anchor="middle" fill="#A8D2D5" font-size="8.5" font-weight="700">CALL</text>
+        <path d="M74 66H88" stroke="#55D6D3" stroke-width="1.5" stroke-linecap="round"/>
         <path d="M84 62L89 66L84 70" fill="none" stroke="#55D6D3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 
         <rect x="91" y="34" width="143" height="99" rx="13" fill="#10262D" stroke="#8BD9DC" stroke-opacity="0.20"/>
@@ -41,17 +41,17 @@
         <text x="104" y="71" fill="#769DA4" font-size="7.5" font-weight="700">CUSTOMER DATA</text>
         <path d="M104 78H157M165 78H218" stroke="#9FC8CC" stroke-opacity="0.30" stroke-linecap="round"/>
         <rect x="103" y="87" width="118" height="24" rx="8" fill="#36CBC5" fill-opacity="0.15" stroke="#62D9D4" stroke-opacity="0.24"/>
-        <circle cx="116" cy="99" r="4" fill="#4AD8D1"/><path d="M114 99L116 101L120 96" fill="none" stroke="#092228" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-        <text x="127" y="103" fill="#D0F1EF" font-size="9" font-weight="750">CTI FORMAT READY</text>
+        <circle cx="117" cy="99" r="4" fill="#4AD8D1"/><path d="M115 99L117 101L121 96" fill="none" stroke="#092228" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="128" y="103" fill="#D0F1EF" font-size="9" font-weight="750">CTI FORMAT READY</text>
         <rect x="103" y="116" width="55" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.055"/><text x="109" y="125" fill="#9EC6CA" font-size="6.8" font-weight="700">CLIPBOARD</text>
         <rect x="164" y="116" width="57" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.055"/><text x="172" y="125" fill="#9EC6CA" font-size="6.8" font-weight="700">WEB LOOKUP</text>
 
-        <g transform="translate(18 145)" font-size="8" font-weight="700">
-          <rect width="59" height="20" rx="10" fill="#2FBBC3" fill-opacity="0.11" stroke="#5CCDD3" stroke-opacity="0.18"/><text x="11" y="14" fill="#BDE4E6">CAPTURE</text>
+        <g transform="translate(18 145)" font-size="8" font-weight="700" text-anchor="middle">
+          <rect width="59" height="20" rx="10" fill="#2FBBC3" fill-opacity="0.11" stroke="#5CCDD3" stroke-opacity="0.18"/><text x="29.5" y="14" fill="#BDE4E6">CAPTURE</text>
           <path d="M62 10H70M67 7L70 10L67 13" fill="none" stroke="#4CCDD0" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
-          <rect x="74" width="64" height="20" rx="10" fill="#35C9C4" fill-opacity="0.12" stroke="#62D9D4" stroke-opacity="0.20"/><text x="85" y="14" fill="#C7EBE9">FORMAT</text>
+          <rect x="74" width="64" height="20" rx="10" fill="#35C9C4" fill-opacity="0.12" stroke="#62D9D4" stroke-opacity="0.20"/><text x="106" y="14" fill="#C7EBE9">FORMAT</text>
           <path d="M141 10H149M146 7L149 10L146 13" fill="none" stroke="#4CCDD0" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
-          <rect x="153" width="77" height="20" rx="10" fill="#2CB5B4" fill-opacity="0.10" stroke="#5BCBC7" stroke-opacity="0.18"/><text x="164" y="14" fill="#BFE5E1">LOOKUP</text>
+          <rect x="153" width="62" height="20" rx="10" fill="#2CB5B4" fill-opacity="0.10" stroke="#5BCBC7" stroke-opacity="0.18"/><text x="184" y="14" fill="#BFE5E1">LOOKUP</text>
         </g>
       </g>
     </g>

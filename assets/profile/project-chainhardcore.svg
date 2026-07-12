@@ -30,11 +30,11 @@
           <path d="M18 18L25 14L32 18L25 22Z" fill="#68A764"/><path d="M18 18L25 22V30L18 26Z" fill="#315F3C"/><path d="M32 18L25 22V30L32 26Z" fill="#244B31"/>
         </g>
         <text x="40" y="24" fill="#A5BEA6" font-size="9" font-weight="750" letter-spacing="0.9">MINECRAFT 1.21.x · PAPER</text>
-        <rect x="193" y="12" width="41" height="20" rx="10" fill="#B8A75E" fill-opacity="0.10" stroke="#D0BD73" stroke-opacity="0.18"/><text x="202" y="25" fill="#DFD5A8" font-size="7.5" font-weight="750">NO MOD</text>
+        <rect x="193" y="12" width="41" height="20" rx="10" fill="#B8A75E" fill-opacity="0.10" stroke="#D0BD73" stroke-opacity="0.18"/><text x="213.5" y="25" text-anchor="middle" fill="#DFD5A8" font-size="7.5" font-weight="750">NO MOD</text>
 
-        <text x="91" y="51" fill="#B8CBB7" font-size="8.5" font-weight="700" letter-spacing="0.8">DYNAMIC CHAIN</text>
+        <text x="126" y="51" text-anchor="middle" fill="#B8CBB7" font-size="8.5" font-weight="700" letter-spacing="0.8">DYNAMIC CHAIN</text>
 
-        <g transform="translate(24 45)" aria-label="Original orange-haired block-style player">
+        <g transform="translate(27 45)" aria-label="Original orange-haired block-style player">
           <rect x="8" width="28" height="28" rx="3" fill="#D8A07A"/>
           <path d="M8 0H36V8H31V12H13V8H8Z" fill="#C56D35"/><path d="M8 7H13V19H8ZM31 7H36V20H31Z" fill="#A9522C"/>
           <rect x="14" y="14" width="3" height="3" fill="#24302A"/><rect x="27" y="14" width="3" height="3" fill="#24302A"/>
@@ -44,7 +44,7 @@
           <rect x="9" y="90" width="13" height="5" rx="1.5" fill="#272F29"/><rect x="22" y="90" width="13" height="5" rx="1.5" fill="#272F29"/>
         </g>
 
-        <g transform="translate(180 45)" aria-label="Original dark-haired block-style player">
+        <g transform="translate(181 45)" aria-label="Original dark-haired block-style player">
           <rect x="8" width="28" height="28" rx="3" fill="#B98262"/>
           <path d="M8 0H36V9H32V13H12V9H8Z" fill="#443126"/><path d="M8 8H12V20H8ZM32 8H36V20H32Z" fill="#36261F"/>
           <rect x="14" y="14" width="3" height="3" fill="#1C2929"/><rect x="27" y="14" width="3" height="3" fill="#1C2929"/>
@@ -54,14 +54,14 @@
           <rect x="9" y="90" width="13" height="5" rx="1.5" fill="#202B35"/><rect x="22" y="90" width="13" height="5" rx="1.5" fill="#202B35"/>
         </g>
 
-        <path d="M66 100C77 87 87 113 99 100C111 87 121 113 133 100C145 87 155 113 167 100C172 95 176 95 180 100" fill="none" stroke="#D7C474" stroke-width="4" stroke-linecap="round"/>
-        <g fill="#F0DD8C"><circle cx="82" cy="100" r="3"/><circle cx="116" cy="100" r="3"/><circle cx="150" cy="100" r="3"/><circle cx="176" cy="100" r="3"/></g>
-        <path d="M67 108H179" stroke="#D7C474" stroke-opacity="0.16" stroke-dasharray="2 5"/>
+        <path d="M69 100C79 87 89 113 100 100C111 87 121 113 132 100C143 87 153 113 164 100C173 90 178 94 183 100" fill="none" stroke="#D7C474" stroke-width="4" stroke-linecap="round"/>
+        <g fill="#F0DD8C"><circle cx="84" cy="100" r="3"/><circle cx="116" cy="100" r="3"/><circle cx="148" cy="100" r="3"/><circle cx="176" cy="100" r="3"/></g>
+        <path d="M70 108H182" stroke="#D7C474" stroke-opacity="0.16" stroke-dasharray="2 5"/>
 
-        <g transform="translate(18 149)" font-size="8" font-weight="700">
-          <rect width="64" height="19" rx="9.5" fill="#38B66F" fill-opacity="0.13" stroke="#61C386" stroke-opacity="0.20"/><text x="12" y="13" fill="#C7E5CF">LINE · RING</text>
-          <rect x="72" width="70" height="19" rx="9.5" fill="#45B978" fill-opacity="0.11" stroke="#70C792" stroke-opacity="0.18"/><text x="88" y="13" fill="#C9E4D0">LEADER</text>
-          <rect x="150" width="82" height="19" rx="9.5" fill="#AF9E58" fill-opacity="0.10" stroke="#CEBC73" stroke-opacity="0.17"/><text x="165" y="13" fill="#E4DBB5">SOLO TEST</text>
+        <g transform="translate(18 149)" font-size="8" font-weight="700" text-anchor="middle">
+          <rect width="64" height="19" rx="9.5" fill="#38B66F" fill-opacity="0.13" stroke="#61C386" stroke-opacity="0.20"/><text x="32" y="13" fill="#C7E5CF">LINE · RING</text>
+          <rect x="72" width="64" height="19" rx="9.5" fill="#45B978" fill-opacity="0.11" stroke="#70C792" stroke-opacity="0.18"/><text x="104" y="13" fill="#C9E4D0">LEADER</text>
+          <rect x="144" width="72" height="19" rx="9.5" fill="#AF9E58" fill-opacity="0.10" stroke="#CEBC73" stroke-opacity="0.17"/><text x="180" y="13" fill="#E4DBB5">SOLO TEST</text>
         </g>
       </g>
     </g>
