@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">ChainHardcore</title>
+  <desc id="desc">A server-side Paper plugin that connects Minecraft players with chain tension, pulling behavior, multiple connection modes, and a solo test mode.</desc>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="18" x2="870" y2="282" gradientUnits="userSpaceOnUse"><stop stop-color="#172319"/><stop offset="0.55" stop-color="#101A15"/><stop offset="1" stop-color="#0A100D"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(722 112) rotate(145) scale(275 215)" gradientUnits="userSpaceOnUse"><stop stop-color="#2F9A62" stop-opacity="0.30"/><stop offset="0.56" stop-color="#B9A766" stop-opacity="0.12"/><stop offset="1" stop-color="#B9A766" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x1="28" y1="28" x2="872" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.095"/><stop offset="1" stop-color="#9BC88B" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="border" x1="90" y1="28" x2="820" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.31"/><stop offset="0.52" stop-color="#AFD5A7" stop-opacity="0.12"/><stop offset="1" stop-color="#D3C27D" stop-opacity="0.23"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2EB66D"/><stop offset="0.62" stop-color="#5CCB82"/><stop offset="1" stop-color="#D0BD73"/></linearGradient>
+    <filter id="shadow" x="5" y="3" width="890" height="294" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020704" flood-opacity="0.36"/></filter>
+  </defs>
+  <rect width="900" height="300" rx="32" fill="url(#bg)"/><rect width="900" height="300" rx="32" fill="url(#glow)"/>
+  <g filter="url(#shadow)"><rect x="28.5" y="28.5" width="843" height="243" rx="27.5" fill="url(#panel)" stroke="url(#border)"/><path d="M62 29H830" stroke="#FFFFFF" stroke-opacity="0.22" stroke-linecap="round"/></g>
+  <rect x="28" y="28" width="5" height="244" rx="2.5" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="68" y="70" fill="#9BB5A1" font-size="12" font-weight="700" letter-spacing="1.8">SELECTED WORK / 03</text>
+    <text x="66" y="118" fill="#F5F9F5" font-size="38" font-weight="680" letter-spacing="-0.8">ChainHardcore</text>
+    <text x="68" y="151" fill="#CAD7CC" font-size="16.5" font-weight="430"><tspan x="68">A Paper plugin that links players through dynamic chain</tspan><tspan x="68" dy="24">physics and configurable cooperative hardcore rules.</tspan></text>
+    <g font-size="12.5" font-weight="590" fill="#D8E3D9">
+      <g transform="translate(68 215)"><rect width="66" height="28" rx="14" fill="#36B96F" fill-opacity="0.11" stroke="#67C98C" stroke-opacity="0.20"/><text x="14" y="19">Java 21</text></g>
+      <g transform="translate(143 215)"><rect width="58" height="28" rx="14" fill="#45B977" fill-opacity="0.10" stroke="#76C996" stroke-opacity="0.19"/><text x="14" y="19">Paper</text></g>
+      <g transform="translate(210 215)"><rect width="62" height="28" rx="14" fill="#68AD72" fill-opacity="0.10" stroke="#8AC490" stroke-opacity="0.18"/><text x="13" y="19">Gradle</text></g>
+      <g transform="translate(281 215)"><rect width="121" height="28" rx="14" fill="#B7A75E" fill-opacity="0.09" stroke="#D1BF78" stroke-opacity="0.17"/><text x="13" y="19">Minecraft 1.21.x</text></g>
+    </g>
+    <g transform="translate(574 61)">
+      <rect width="252" height="178" rx="22" fill="#0B1710" fill-opacity="0.77" stroke="#D5E2BF" stroke-opacity="0.16"/>
+      <text x="19" y="28" fill="#8CA893" font-size="9.5" font-weight="700" letter-spacing="1.1">SERVER-SIDE PAPER PLUGIN</text>
+      <rect x="18" y="42" width="57" height="57" rx="12" fill="#274D36" stroke="#65B47B" stroke-opacity="0.28"/><path d="M18 58L47 42L75 58L47 74Z" fill="#3D7050"/><path d="M18 58L47 74V99L18 83Z" fill="#23432F"/><path d="M75 58L47 74V99L75 83Z" fill="#1C3828"/>
+      <rect x="177" y="42" width="57" height="57" rx="12" fill="#394A2E" stroke="#C6B56D" stroke-opacity="0.27"/><path d="M177 58L206 42L234 58L206 74Z" fill="#687044"/><path d="M177 58L206 74V99L177 83Z" fill="#34422C"/><path d="M234 58L206 74V99L234 83Z" fill="#2B3726"/>
+      <path d="M75 70C94 57 98 87 114 72C130 57 135 86 151 72C161 63 167 64 177 70" fill="none" stroke="#C8BC7A" stroke-width="4" stroke-linecap="round"/><g fill="#E1D392"><circle cx="95" cy="69" r="3"/><circle cx="126" cy="72" r="3"/><circle cx="158" cy="70" r="3"/></g>
+      <g transform="translate(18 118)"><rect width="64" height="24" rx="12" fill="#38B66F" fill-opacity="0.13" stroke="#61C386" stroke-opacity="0.20"/><text x="18" y="16" fill="#C7E5CF" font-size="8.5" font-weight="700">LINE</text><rect x="72" width="64" height="24" rx="12" fill="#45B978" fill-opacity="0.11" stroke="#70C792" stroke-opacity="0.18"/><text x="91" y="16" fill="#C9E4D0" font-size="8.5" font-weight="700">RING</text><rect x="144" width="90" height="24" rx="12" fill="#AF9E58" fill-opacity="0.10" stroke="#CEBC73" stroke-opacity="0.17"/><text x="155" y="16" fill="#E4DBB5" font-size="8.2" font-weight="700">LEADER · RANDOM</text></g>
+      <path d="M18 154H234" stroke="#B7CEBA" stroke-opacity="0.12"/><text x="18" y="171" fill="#87A28D" font-size="8.8" font-weight="650" letter-spacing="0.8">CHAIN TENSION · PULLING · SOLO TEST · NO MOD</text>
+    </g>
+  </g>
+</svg>

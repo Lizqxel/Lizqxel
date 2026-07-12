@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Chord Sprint</title>
+  <desc id="desc">A browser piano chord trainer with MIDI input, real-time chord recognition, a fourteen-day plan, practice history, and DAW output.</desc>
+  <defs>
+    <linearGradient id="bg" x1="36" y1="20" x2="864" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#17172A"/><stop offset="0.55" stop-color="#101522"/><stop offset="1" stop-color="#09131D"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(720 112) rotate(145) scale(260 210)" gradientUnits="userSpaceOnUse"><stop stop-color="#7658F6" stop-opacity="0.32"/><stop offset="0.52" stop-color="#347DEB" stop-opacity="0.16"/><stop offset="1" stop-color="#347DEB" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x1="28" y1="28" x2="872" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.105"/><stop offset="1" stop-color="#92B4FF" stop-opacity="0.045"/></linearGradient>
+    <linearGradient id="border" x1="90" y1="28" x2="820" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.35"/><stop offset="0.52" stop-color="#A9B8FF" stop-opacity="0.14"/><stop offset="1" stop-color="#5AAEFF" stop-opacity="0.25"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A17CFF"/><stop offset="1" stop-color="#4C8EFF"/></linearGradient>
+    <filter id="shadow" x="5" y="3" width="890" height="294" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#050714" flood-opacity="0.34"/></filter>
+  </defs>
+  <rect width="900" height="300" rx="32" fill="url(#bg)"/><rect width="900" height="300" rx="32" fill="url(#glow)"/>
+  <g filter="url(#shadow)"><rect x="28.5" y="28.5" width="843" height="243" rx="27.5" fill="url(#panel)" stroke="url(#border)"/><path d="M62 29H830" stroke="#FFFFFF" stroke-opacity="0.24" stroke-linecap="round"/></g>
+  <rect x="28" y="28" width="5" height="244" rx="2.5" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="68" y="70" fill="#9FAED0" font-size="12" font-weight="700" letter-spacing="1.8">SELECTED WORK / 01</text>
+    <text x="66" y="118" fill="#F7F8FC" font-size="38" font-weight="680" letter-spacing="-0.8">Chord Sprint</text>
+    <text x="68" y="151" fill="#CAD2E1" font-size="16.5" font-weight="430"><tspan x="68">A browser piano trainer with MIDI input, real-time chord</tspan><tspan x="68" dy="24">recognition, practice analytics, and external DAW routing.</tspan></text>
+    <g font-size="12.5" font-weight="590" fill="#D7DCEE">
+      <g transform="translate(68 215)"><rect width="55" height="28" rx="14" fill="#9B78FF" fill-opacity="0.13" stroke="#B294FF" stroke-opacity="0.22"/><text x="15" y="19">React</text></g>
+      <g transform="translate(132 215)"><rect width="88" height="28" rx="14" fill="#7885FF" fill-opacity="0.12" stroke="#9AA6FF" stroke-opacity="0.20"/><text x="14" y="19">TypeScript</text></g>
+      <g transform="translate(229 215)"><rect width="48" height="28" rx="14" fill="#5A94FF" fill-opacity="0.11" stroke="#76AAFF" stroke-opacity="0.20"/><text x="14" y="19">Vite</text></g>
+      <g transform="translate(286 215)"><rect width="82" height="28" rx="14" fill="#4F9EFF" fill-opacity="0.11" stroke="#6FB1FF" stroke-opacity="0.20"/><text x="13" y="19">Web MIDI</text></g>
+      <g transform="translate(377 215)"><rect width="88" height="28" rx="14" fill="#4AA8EF" fill-opacity="0.10" stroke="#6CC0F4" stroke-opacity="0.18"/><text x="13" y="19">Web Audio</text></g>
+    </g>
+    <g transform="translate(574 65)">
+      <rect width="252" height="171" rx="22" fill="#0D1424" fill-opacity="0.74" stroke="#D6D9FF" stroke-opacity="0.17"/>
+      <text x="22" y="28" fill="#8F9FBE" font-size="10" font-weight="700" letter-spacing="1.2">MIDI IN</text><circle cx="78" cy="24" r="3" fill="#8D74FF"/><path d="M83 24H111" stroke="#8178ED" stroke-opacity="0.65" stroke-dasharray="3 4"/>
+      <rect x="111" y="12" width="76" height="25" rx="12.5" fill="#775CF0" fill-opacity="0.18" stroke="#AA97FF" stroke-opacity="0.24"/><text x="129" y="29" fill="#E4E0FF" font-size="12" font-weight="700">C maj7</text><path d="M188 24H211" stroke="#5598F3" stroke-opacity="0.70" stroke-dasharray="3 4"/><text x="211" y="28" fill="#7FB4F7" font-size="9" font-weight="700">DAW</text>
+      <text x="22" y="67" fill="#8F9FBE" font-size="9.5" font-weight="650" letter-spacing="0.9">14-DAY PLAN</text><rect x="22" y="77" width="134" height="5" rx="2.5" fill="#FFFFFF" fill-opacity="0.08"/><rect x="22" y="77" width="70" height="5" rx="2.5" fill="url(#accent)"/><text x="167" y="83" fill="#C9D2EA" font-size="10" font-weight="650">DAY 07</text>
+      <text x="22" y="110" fill="#8F9FBE" font-size="9.5" font-weight="650" letter-spacing="0.9">PRACTICE HISTORY</text><path d="M140 111L153 102L166 107L180 94L195 99L209 83L226 90" fill="none" stroke="#6A9FFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M23 126V145H229V126" fill="#131D31" stroke="#B7C4EC" stroke-opacity="0.19"/>
+      <g transform="translate(24 127)"><g fill="#E9EDF6"><rect width="25" height="36" rx="0 0 5 5"/><rect x="27" width="25" height="36" rx="0 0 5 5"/><rect x="54" width="25" height="36" rx="0 0 5 5"/><rect x="81" width="25" height="36" rx="0 0 5 5"/><rect x="108" width="25" height="36" rx="0 0 5 5"/><rect x="135" width="25" height="36" rx="0 0 5 5"/><rect x="162" width="25" height="36" rx="0 0 5 5"/><rect x="189" width="25" height="36" rx="0 0 5 5"/></g><g fill="#131824"><rect x="18" width="14" height="23" rx="0 0 3 3"/><rect x="45" width="14" height="23" rx="0 0 3 3"/><rect x="99" width="14" height="23" rx="0 0 3 3"/><rect x="126" width="14" height="23" rx="0 0 3 3"/><rect x="153" width="14" height="23" rx="0 0 3 3"/><rect x="207" width="8" height="23" rx="0 0 3 3"/></g><rect x="81" width="25" height="36" fill="#8668F4" fill-opacity="0.52"/><rect x="135" width="25" height="36" fill="#4A8AF0" fill-opacity="0.46"/></g>
+    </g>
+  </g>
+</svg>
