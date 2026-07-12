@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">TelephoneTool</title>
+  <desc id="desc">A Windows call-center workflow app that captures incoming data, prepares CTI formats, monitors the clipboard, and automates service-area lookup.</desc>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="18" x2="870" y2="282" gradientUnits="userSpaceOnUse"><stop stop-color="#102126"/><stop offset="0.55" stop-color="#0C1920"/><stop offset="1" stop-color="#071217"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(730 114) rotate(145) scale(275 215)" gradientUnits="userSpaceOnUse"><stop stop-color="#27C7BE" stop-opacity="0.28"/><stop offset="0.55" stop-color="#29A8D4" stop-opacity="0.14"/><stop offset="1" stop-color="#29A8D4" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x1="28" y1="28" x2="872" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.10"/><stop offset="1" stop-color="#7BDEE0" stop-opacity="0.045"/></linearGradient>
+    <linearGradient id="border" x1="90" y1="28" x2="820" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.33"/><stop offset="0.52" stop-color="#9DE5E6" stop-opacity="0.13"/><stop offset="1" stop-color="#45C6D1" stop-opacity="0.25"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#43D7D0"/><stop offset="1" stop-color="#2AA9CB"/></linearGradient>
+    <filter id="shadow" x="5" y="3" width="890" height="294" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020A0E" flood-opacity="0.34"/></filter>
+    <clipPath id="visualClip"><rect x="1" y="1" width="250" height="176" rx="21"/></clipPath>
+  </defs>
+  <rect width="900" height="300" rx="32" fill="url(#bg)"/><rect width="900" height="300" rx="32" fill="url(#glow)"/>
+  <g filter="url(#shadow)"><rect x="28.5" y="28.5" width="843" height="243" rx="27.5" fill="url(#panel)" stroke="url(#border)"/><path d="M62 29H830" stroke="#FFFFFF" stroke-opacity="0.23" stroke-linecap="round"/></g>
+  <rect x="40" y="43" width="4" height="214" rx="2" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="68" y="70" fill="#8FB5BE" font-size="12" font-weight="700" letter-spacing="1.8">SELECTED WORK / 02</text>
+    <text x="66" y="118" fill="#F5FAFA" font-size="38" font-weight="680" letter-spacing="-0.8">TelephoneTool</text>
+    <text x="68" y="151" fill="#C3D6DA" font-size="16.5" font-weight="430"><tspan x="68">A Windows automation app built around real call-center</tspan><tspan x="68" dy="24">workflows: CTI formatting, monitoring, and service lookup.</tspan></text>
+    <g font-size="12.5" font-weight="590" fill="#D4E5E6">
+      <g transform="translate(68 215)"><rect width="64" height="28" rx="14" fill="#3DD1C9" fill-opacity="0.11" stroke="#72E1DC" stroke-opacity="0.20"/><text x="14" y="19">Python</text></g>
+      <g transform="translate(141 215)"><rect width="72" height="28" rx="14" fill="#35C8C5" fill-opacity="0.11" stroke="#68DAD8" stroke-opacity="0.19"/><text x="13" y="19">PySide6</text></g>
+      <g transform="translate(222 215)"><rect width="81" height="28" rx="14" fill="#31BFC5" fill-opacity="0.10" stroke="#62D2D6" stroke-opacity="0.18"/><text x="13" y="19">Selenium</text></g>
+      <g transform="translate(312 215)"><rect width="73" height="28" rx="14" fill="#2AAFC5" fill-opacity="0.10" stroke="#5CC5D5" stroke-opacity="0.18"/><text x="13" y="19">pywin32</text></g>
+    </g>
+    <g transform="translate(574 61)">
+      <rect width="252" height="178" rx="22" fill="#08181D" fill-opacity="0.76" stroke="#BDEBED" stroke-opacity="0.17"/>
+      <g clip-path="url(#visualClip)">
+        <text x="18" y="25" fill="#8DB8BF" font-size="9.5" font-weight="700" letter-spacing="1.1">REAL CALL-CENTER FLOW</text>
+        <rect x="19" y="41" width="50" height="50" rx="17" fill="#35C9C4" fill-opacity="0.12" stroke="#63DAD6" stroke-opacity="0.24"/>
+        <path d="M25 53C28 51 31 49 34 48L40 55L36 60C40 66 45 71 51 75L56 70L63 76C62 80 60 83 56 86C42 81 31 70 25 56Z" fill="none" stroke="#56D9D3" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="44" y="106" text-anchor="middle" fill="#A8D2D5" font-size="8.5" font-weight="700">INCOMING</text>
+        <text x="44" y="117" text-anchor="middle" fill="#A8D2D5" font-size="8.5" font-weight="700">CALL</text>
+        <path d="M74 66H88" stroke="#55D6D3" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M84 62L89 66L84 70" fill="none" stroke="#55D6D3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+        <rect x="91" y="34" width="143" height="99" rx="13" fill="#10262D" stroke="#8BD9DC" stroke-opacity="0.20"/>
+        <path d="M91 56H234" stroke="#8BD9DC" stroke-opacity="0.16"/>
+        <circle cx="104" cy="45" r="2.5" fill="#45D8D1"/><circle cx="114" cy="45" r="2.5" fill="#2DAEC9"/><circle cx="124" cy="45" r="2.5" fill="#79DFD7" fill-opacity="0.48"/>
+        <text x="183" y="48" fill="#8DB8BF" font-size="8" font-weight="700">CTI DESK</text>
+        <text x="104" y="71" fill="#769DA4" font-size="7.5" font-weight="700">CUSTOMER DATA</text>
+        <path d="M104 78H157M165 78H218" stroke="#9FC8CC" stroke-opacity="0.30" stroke-linecap="round"/>
+        <rect x="103" y="87" width="118" height="24" rx="8" fill="#36CBC5" fill-opacity="0.15" stroke="#62D9D4" stroke-opacity="0.24"/>
+        <circle cx="117" cy="99" r="4" fill="#4AD8D1"/><path d="M115 99L117 101L121 96" fill="none" stroke="#092228" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="128" y="103" fill="#D0F1EF" font-size="9" font-weight="750">CTI FORMAT READY</text>
+        <rect x="103" y="116" width="55" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.055"/><text x="109" y="125" fill="#9EC6CA" font-size="6.8" font-weight="700">CLIPBOARD</text>
+        <rect x="164" y="116" width="57" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.055"/><text x="172" y="125" fill="#9EC6CA" font-size="6.8" font-weight="700">WEB LOOKUP</text>
+
+        <g transform="translate(18 145)" font-size="8" font-weight="700" text-anchor="middle">
+          <rect width="59" height="20" rx="10" fill="#2FBBC3" fill-opacity="0.11" stroke="#5CCDD3" stroke-opacity="0.18"/><text x="29.5" y="14" fill="#BDE4E6">CAPTURE</text>
+          <path d="M62 10H70M67 7L70 10L67 13" fill="none" stroke="#4CCDD0" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+          <rect x="74" width="64" height="20" rx="10" fill="#35C9C4" fill-opacity="0.12" stroke="#62D9D4" stroke-opacity="0.20"/><text x="106" y="14" fill="#C7EBE9">FORMAT</text>
+          <path d="M141 10H149M146 7L149 10L146 13" fill="none" stroke="#4CCDD0" stroke-opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+          <rect x="153" width="62" height="20" rx="10" fill="#2CB5B4" fill-opacity="0.10" stroke="#5BCBC7" stroke-opacity="0.18"/><text x="184" y="14" fill="#BFE5E1">LOOKUP</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-labelledby="title desc">
+  <title id="title">Yuga Iwata — Software Engineer and Product Builder</title>
+  <desc id="desc">A restrained graphite portfolio header with a translucent glass panel, soft blue and violet light, and focus areas in AR, automation, Web MIDI, and developer tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="50" y1="10" x2="850" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171A22"/>
+      <stop offset="0.55" stop-color="#0F1219"/>
+      <stop offset="1" stop-color="#090B10"/>
+    </linearGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(720 94) rotate(135) scale(300 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7667F5" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#7667F5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyan" cx="0" cy="0" r="1" gradientTransform="translate(135 380) rotate(-35) scale(360 210)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4CC9E8" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#4CC9E8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="100" y1="54" x2="800" y2="386" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
+      <stop offset="0.46" stop-color="#DCE7FF" stop-opacity="0.075"/>
+      <stop offset="1" stop-color="#80C9E8" stop-opacity="0.045"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="130" y1="54" x2="760" y2="386" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.48"/>
+      <stop offset="0.44" stop-color="#C6D7FF" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#6ECFE7" stop-opacity="0.21"/>
+    </linearGradient>
+    <linearGradient id="specular" x1="140" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#FFFFFF" stop-opacity="0.72"/>
+      <stop offset="0.72" stop-color="#CDE7FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow" x="45" y="14" width="810" height="412" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="15" stdDeviation="18" flood-color="#000000" flood-opacity="0.30"/>
+    </filter>
+    <clipPath id="panelClip"><rect x="74" y="46" width="752" height="348" rx="32"/></clipPath>
+    <pattern id="grain" width="43" height="43" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="9" r="0.7" fill="#FFFFFF" fill-opacity="0.12"/>
+      <circle cx="31" cy="18" r="0.55" fill="#8EDDF3" fill-opacity="0.10"/>
+      <circle cx="16" cy="35" r="0.6" fill="#FFFFFF" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="440" rx="36" fill="url(#bg)"/>
+  <rect width="900" height="440" rx="36" fill="url(#violet)"/>
+  <rect width="900" height="440" rx="36" fill="url(#cyan)"/>
+  <path d="M66 352C190 278 291 395 446 311C608 223 721 275 850 188" fill="none" stroke="#7DD9F0" stroke-opacity="0.07" stroke-width="1"/>
+  <circle cx="816" cy="72" r="2" fill="#B9B1FF" fill-opacity="0.45"/>
+  <circle cx="846" cy="103" r="1.5" fill="#78D8EC" fill-opacity="0.35"/>
+  <circle cx="54" cy="329" r="1.5" fill="#78D8EC" fill-opacity="0.32"/>
+
+  <g filter="url(#shadow)">
+    <rect x="74" y="46" width="752" height="348" rx="32" fill="#11151D" fill-opacity="0.70"/>
+    <rect x="74.5" y="46.5" width="751" height="347" rx="31.5" fill="url(#glass)" stroke="url(#edge)"/>
+    <rect x="75" y="47" width="750" height="346" rx="31" fill="url(#grain)" opacity="0.34" clip-path="url(#panelClip)"/>
+    <path d="M118 47.5H777C801 47.5 817.5 65 817.5 87" fill="none" stroke="url(#specular)" stroke-width="1.4" stroke-linecap="round"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <g transform="translate(122 91)">
+      <rect width="122" height="30" rx="15" fill="#DCEAFF" fill-opacity="0.10" stroke="#DCEAFF" stroke-opacity="0.20"/>
+      <circle cx="18" cy="15" r="4" fill="#79D4EA"/>
+      <text x="31" y="20" fill="#D8E6F7" font-size="13" font-weight="600" letter-spacing="1.2">JAPAN · JST</text>
+    </g>
+    <text x="120" y="184" fill="#F7F9FC" font-size="54" font-weight="680" letter-spacing="-1.8">Yuga Iwata</text>
+    <text x="122" y="220" fill="#C6D1E0" font-size="21" font-weight="520" letter-spacing="0.2">Software Engineer · Product Builder</text>
+    <text x="122" y="266" fill="#E9EEF5" font-size="18" font-weight="420">
+      <tspan x="122" dy="0">I build practical software that turns complex workflows</tspan>
+      <tspan x="122" dy="27">into clear, usable experiences.</tspan>
+    </text>
+    <text x="122" y="336" fill="#92A2B8" font-size="12" font-weight="650" letter-spacing="1.7">FOCUS</text>
+    <text x="191" y="336" fill="#C8D5E5" font-size="14" font-weight="520">AR</text>
+    <circle cx="224" cy="331" r="2" fill="#6D7C90"/>
+    <text x="238" y="336" fill="#C8D5E5" font-size="14" font-weight="520">Automation</text>
+    <circle cx="331" cy="331" r="2" fill="#6D7C90"/>
+    <text x="345" y="336" fill="#C8D5E5" font-size="14" font-weight="520">Web MIDI</text>
+    <circle cx="430" cy="331" r="2" fill="#6D7C90"/>
+    <text x="444" y="336" fill="#C8D5E5" font-size="14" font-weight="520">Developer Tools</text>
+  </g>
+
+  <g transform="translate(667 287)" opacity="0.74">
+    <path d="M0 26H91" stroke="#AFC4DF" stroke-opacity="0.35"/>
+    <circle cx="8" cy="26" r="5" fill="#72D7EA"/>
+    <circle cx="46" cy="26" r="5" fill="#7C86F8"/>
+    <circle cx="84" cy="26" r="5" fill="#B690F8"/>
+    <path d="M8 26C21 26 28 6 46 6C64 6 69 26 84 26" fill="none" stroke="#D9E6F7" stroke-opacity="0.65" stroke-width="1.5"/>
+  </g>
+</svg>

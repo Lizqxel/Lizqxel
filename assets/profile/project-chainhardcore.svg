@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">ChainHardcore</title>
+  <desc id="desc">A server-side Paper plugin illustrated by two original block-style players linked by a dynamic chain, with multiple connection modes and no client mod required.</desc>
+  <defs>
+    <linearGradient id="bg" x1="30" y1="18" x2="870" y2="282" gradientUnits="userSpaceOnUse"><stop stop-color="#172319"/><stop offset="0.55" stop-color="#101A15"/><stop offset="1" stop-color="#0A100D"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(722 112) rotate(145) scale(275 215)" gradientUnits="userSpaceOnUse"><stop stop-color="#2F9A62" stop-opacity="0.30"/><stop offset="0.56" stop-color="#B9A766" stop-opacity="0.12"/><stop offset="1" stop-color="#B9A766" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x1="28" y1="28" x2="872" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.095"/><stop offset="1" stop-color="#9BC88B" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="border" x1="90" y1="28" x2="820" y2="272" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.31"/><stop offset="0.52" stop-color="#AFD5A7" stop-opacity="0.12"/><stop offset="1" stop-color="#D3C27D" stop-opacity="0.23"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2EB66D"/><stop offset="0.62" stop-color="#5CCB82"/><stop offset="1" stop-color="#D0BD73"/></linearGradient>
+    <filter id="shadow" x="5" y="3" width="890" height="294" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020704" flood-opacity="0.36"/></filter>
+    <clipPath id="visualClip"><rect x="1" y="1" width="250" height="176" rx="21"/></clipPath>
+  </defs>
+  <rect width="900" height="300" rx="32" fill="url(#bg)"/><rect width="900" height="300" rx="32" fill="url(#glow)"/>
+  <g filter="url(#shadow)"><rect x="28.5" y="28.5" width="843" height="243" rx="27.5" fill="url(#panel)" stroke="url(#border)"/><path d="M62 29H830" stroke="#FFFFFF" stroke-opacity="0.22" stroke-linecap="round"/></g>
+  <rect x="40" y="43" width="4" height="214" rx="2" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="68" y="70" fill="#9BB5A1" font-size="12" font-weight="700" letter-spacing="1.8">SELECTED WORK / 03</text>
+    <text x="66" y="118" fill="#F5F9F5" font-size="38" font-weight="680" letter-spacing="-0.8">ChainHardcore</text>
+    <text x="68" y="151" fill="#CAD7CC" font-size="16.5" font-weight="430"><tspan x="68">A Paper plugin that links players through dynamic chain</tspan><tspan x="68" dy="24">physics and configurable cooperative hardcore rules.</tspan></text>
+    <g font-size="12.5" font-weight="590" fill="#D8E3D9">
+      <g transform="translate(68 215)"><rect width="66" height="28" rx="14" fill="#36B96F" fill-opacity="0.11" stroke="#67C98C" stroke-opacity="0.20"/><text x="14" y="19">Java 21</text></g>
+      <g transform="translate(143 215)"><rect width="58" height="28" rx="14" fill="#45B977" fill-opacity="0.10" stroke="#76C996" stroke-opacity="0.19"/><text x="14" y="19">Paper</text></g>
+      <g transform="translate(210 215)"><rect width="62" height="28" rx="14" fill="#68AD72" fill-opacity="0.10" stroke="#8AC490" stroke-opacity="0.18"/><text x="13" y="19">Gradle</text></g>
+      <g transform="translate(281 215)"><rect width="121" height="28" rx="14" fill="#B7A75E" fill-opacity="0.09" stroke="#D1BF78" stroke-opacity="0.17"/><text x="13" y="19">Minecraft 1.21.x</text></g>
+    </g>
+    <g transform="translate(574 61)">
+      <rect width="252" height="178" rx="22" fill="#0B1710" fill-opacity="0.77" stroke="#D5E2BF" stroke-opacity="0.16"/>
+      <g clip-path="url(#visualClip)">
+        <g aria-label="Original voxel block icon">
+          <path d="M18 18L25 14L32 18L25 22Z" fill="#68A764"/><path d="M18 18L25 22V30L18 26Z" fill="#315F3C"/><path d="M32 18L25 22V30L32 26Z" fill="#244B31"/>
+        </g>
+        <text x="40" y="24" fill="#A5BEA6" font-size="9" font-weight="750" letter-spacing="0.9">MINECRAFT 1.21.x · PAPER</text>
+        <rect x="193" y="12" width="41" height="20" rx="10" fill="#B8A75E" fill-opacity="0.10" stroke="#D0BD73" stroke-opacity="0.18"/><text x="213.5" y="25" text-anchor="middle" fill="#DFD5A8" font-size="7.5" font-weight="750">NO MOD</text>
+
+        <text x="126" y="51" text-anchor="middle" fill="#B8CBB7" font-size="8.5" font-weight="700" letter-spacing="0.8">DYNAMIC CHAIN</text>
+
+        <g transform="translate(27 45)" aria-label="Original orange-haired block-style player">
+          <rect x="8" width="28" height="28" rx="3" fill="#D8A07A"/>
+          <path d="M8 0H36V8H31V12H13V8H8Z" fill="#C56D35"/><path d="M8 7H13V19H8ZM31 7H36V20H31Z" fill="#A9522C"/>
+          <rect x="14" y="14" width="3" height="3" fill="#24302A"/><rect x="27" y="14" width="3" height="3" fill="#24302A"/>
+          <rect x="10" y="29" width="24" height="35" rx="2" fill="#5B9B61"/><path d="M10 29H34V38H10Z" fill="#71B171"/>
+          <rect x="2" y="30" width="8" height="34" rx="2" fill="#D8A07A"/><rect x="34" y="30" width="8" height="34" rx="2" fill="#D8A07A"/>
+          <rect x="10" y="64" width="11" height="30" rx="2" fill="#5C4935"/><rect x="23" y="64" width="11" height="30" rx="2" fill="#4A3C30"/>
+          <rect x="9" y="90" width="13" height="5" rx="1.5" fill="#272F29"/><rect x="22" y="90" width="13" height="5" rx="1.5" fill="#272F29"/>
+        </g>
+
+        <g transform="translate(181 45)" aria-label="Original dark-haired block-style player">
+          <rect x="8" width="28" height="28" rx="3" fill="#B98262"/>
+          <path d="M8 0H36V9H32V13H12V9H8Z" fill="#443126"/><path d="M8 8H12V20H8ZM32 8H36V20H32Z" fill="#36261F"/>
+          <rect x="14" y="14" width="3" height="3" fill="#1C2929"/><rect x="27" y="14" width="3" height="3" fill="#1C2929"/>
+          <rect x="10" y="29" width="24" height="35" rx="2" fill="#369A96"/><path d="M10 29H34V38H10Z" fill="#48B1AA"/>
+          <rect x="2" y="30" width="8" height="34" rx="2" fill="#B98262"/><rect x="34" y="30" width="8" height="34" rx="2" fill="#B98262"/>
+          <rect x="10" y="64" width="11" height="30" rx="2" fill="#35598A"/><rect x="23" y="64" width="11" height="30" rx="2" fill="#2B4775"/>
+          <rect x="9" y="90" width="13" height="5" rx="1.5" fill="#202B35"/><rect x="22" y="90" width="13" height="5" rx="1.5" fill="#202B35"/>
+        </g>
+
+        <path d="M69 100C79 87 89 113 100 100C111 87 121 113 132 100C143 87 153 113 164 100C173 90 178 94 183 100" fill="none" stroke="#D7C474" stroke-width="4" stroke-linecap="round"/>
+        <g fill="#F0DD8C"><circle cx="84" cy="100" r="3"/><circle cx="116" cy="100" r="3"/><circle cx="148" cy="100" r="3"/><circle cx="176" cy="100" r="3"/></g>
+        <path d="M70 108H182" stroke="#D7C474" stroke-opacity="0.16" stroke-dasharray="2 5"/>
+
+        <g transform="translate(18 149)" font-size="8" font-weight="700" text-anchor="middle">
+          <rect width="64" height="19" rx="9.5" fill="#38B66F" fill-opacity="0.13" stroke="#61C386" stroke-opacity="0.20"/><text x="32" y="13" fill="#C7E5CF">LINE · RING</text>
+          <rect x="72" width="64" height="19" rx="9.5" fill="#45B978" fill-opacity="0.11" stroke="#70C792" stroke-opacity="0.18"/><text x="104" y="13" fill="#C9E4D0">LEADER</text>
+          <rect x="144" width="72" height="19" rx="9.5" fill="#AF9E58" fill-opacity="0.10" stroke="#CEBC73" stroke-opacity="0.17"/><text x="180" y="13" fill="#E4DBB5">SOLO TEST</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

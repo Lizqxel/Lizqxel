@@ -1,83 +1,77 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/hero-light.svg">
+  <img src="./assets/profile/hero-light.svg" alt="Yuga Iwata, Software Engineer and Product Builder in Japan, focused on AR, automation, Web MIDI, and developer tools." width="900">
+</picture>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
+# Yuga Iwata
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yuga+Iwata!+%F0%9F%91%8B;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+**Software Engineer · Product Builder**
 
-## **About Me**
+I build practical software that turns complex workflows into clear, usable experiences.
 
-<div align="center">
+`AR` · `Automation` · `Web MIDI` · `Developer Tools`
 
-<table>
-<tr>
-</td>
-<td width="500" align="center">
+## About
 
-### **Hi, I'm Yuga Iwata!**
-🌍 **Location:** Japan 🇯🇵  
-🎯 **Goal:** Creating amazing application  
+I'm a software engineer based in Japan, focused on building tools that make complicated workflows easier to understand and operate. My work spans workflow automation, interactive web applications, AR and software visualization, and developer-focused experiments.
 
-</td>
-</tr>
-</table>
-</div>
+## Selected Work
 
-## **Languages & Tools I've used / learning**
+<a href="https://github.com/Lizqxel/PianoPractice">
+  <img src="./assets/profile/project-piano.svg" alt="Chord Sprint — a Web MIDI piano chord trainer with real-time recognition, a 14-day practice plan, history, analytics, and external DAW routing." width="900">
+</a>
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
+**Chord Sprint** — A browser-based piano chord trainer with MIDI input, real-time chord recognition, practice analytics, and external DAW routing. It combines a structured 14-day plan with practice history, virtual-keyboard support, and MIDI output for tools such as Studio One.
 
-### **Languages**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,html,css,powershell" />
+`React` `TypeScript` `Vite` `Web MIDI` `Web Audio`
 
-### **Frameworks / Libraries**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,fastapi,unity" />
+[Live Demo](https://lizqxel.github.io/PianoPractice/) · [Repository](https://github.com/Lizqxel/PianoPractice)
 
-### **Database**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" />
+<br>
 
-</td>
-<td width="50%" align="center" valign="top">
+<a href="https://github.com/Lizqxel/TelephoneTool">
+  <img src="./assets/profile/project-telephone.svg" alt="TelephoneTool — a Windows call-center workflow app for structured customer input, CTI formatting, clipboard monitoring, service-area lookup, and browser automation." width="900">
+</a>
 
-### **Tools**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,notion,vscode,vercel,miro" />
+**TelephoneTool** — A Windows automation app built to streamline real call-center workflows, including CTI formatting, clipboard monitoring, and service-area lookup. It reduces repetitive customer-information entry through structured forms, generated formats, and Selenium-powered web operations without exposing customer or company data.
 
-### **Design / Creative**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,blender" />
+`Python` `PySide6` `Selenium` `pywin32`
 
-### **Collaboration**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=discord,slack" />
+[Repository](https://github.com/Lizqxel/TelephoneTool)
 
-</td>
-</tr>
-</table>
+<br>
 
+<a href="https://github.com/Lizqxel/Minecraft-ChainHardcore-Plugin">
+  <img src="./assets/profile/project-chainhardcore.svg" alt="ChainHardcore — a server-side Paper plugin with dynamic chain tension, player pulling, multiple connection modes, cooperative rules, and a solo test mode." width="900">
+</a>
 
-## 🚀 Featured Projects  
+**ChainHardcore** — A Paper plugin that connects Minecraft players with dynamic chain physics and cooperative hardcore-style rules. It works entirely server-side with vanilla clients, and includes tension and pulling behavior, line/ring/leader/random modes, and a solo test mode.
 
-<div align="center">
+`Java 21` `Paper` `Gradle` `Minecraft 1.21.x`
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Step&](https://github.com/) | AR×AIで歩行体験を冒険に変えるアプリ（取組中） | Unity / FastAPI / Docker |
-| [RAG](https://github.com/Lizqxel/callcenter-rag_poc/tree/main/rag-video-poc) | 動画マニュアルからRAG | Python / Ollama / Whisper |
-| [TelephoneTool](https://github.com/Lizqxel/TelephoneTool) | CTI自動入力・業務効率化ツール | Selenium / Python |
+[Repository](https://github.com/Lizqxel/Minecraft-ChainHardcore-Plugin)
 
-</div>
+## Toolbox
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,30,60&height=150&section=footer"/>
-</div>
+**Languages**<br>
+`TypeScript` `Python` `Java` `C`
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  **[Lizqxel](https://github.com/Lizqxel)**
-</div>
+**Frontend & Interactive**<br>
+`React` `Vite` `Web MIDI` `Web Audio` `Unity`
+
+**Backend & Automation**<br>
+`FastAPI` `PySide6` `Selenium` `Docker`
+
+**Tools**<br>
+`Git` `GitHub` `VS Code` `Notion` `Figma`
+
+## Current Focus
+
+- AR × software visualization
+- Practical workflow automation
+- Interfaces that make complex systems easier to understand
+
+---
+
+*Building useful things, one experiment at a time.*
