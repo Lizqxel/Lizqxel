@@ -11,7 +11,7 @@
   </defs>
   <rect width="900" height="300" rx="32" fill="url(#bg)"/><rect width="900" height="300" rx="32" fill="url(#glow)"/>
   <g filter="url(#shadow)"><rect x="28.5" y="28.5" width="843" height="243" rx="27.5" fill="url(#panel)" stroke="url(#border)"/><path d="M62 29H830" stroke="#FFFFFF" stroke-opacity="0.24" stroke-linecap="round"/></g>
-  <rect x="28" y="28" width="5" height="244" rx="2.5" fill="url(#accent)"/>
+  <rect x="40" y="43" width="4" height="214" rx="2" fill="url(#accent)"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
     <text x="68" y="70" fill="#9FAED0" font-size="12" font-weight="700" letter-spacing="1.8">SELECTED WORK / 01</text>
     <text x="66" y="118" fill="#F7F8FC" font-size="38" font-weight="680" letter-spacing="-0.8">Chord Sprint</text>
