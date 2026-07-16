@@ -19,12 +19,12 @@ I'm a software engineer based in Japan, focused on building tools that make comp
 ## Selected Work
 
 <a href="https://github.com/Lizqxel/PianoPractice">
-  <img src="./assets/profile/project-piano.svg" alt="Chord Sprint — a Web MIDI piano chord trainer with real-time recognition, a 14-day practice plan, history, analytics, and external DAW routing." width="900">
+  <img src="./assets/profile/project-piano.svg" alt="Chord Sprint — a Web MIDI piano chord trainer with real-time recognition, automatic U-FRET and YouTube chord synchronization, practice analytics, and external DAW routing." width="900">
 </a>
 
-**Chord Sprint** — A browser-based piano chord trainer with MIDI input, real-time chord recognition, practice analytics, and external DAW routing. It combines a structured 14-day plan with practice history, virtual-keyboard support, and MIDI output for tools such as Studio One.
+**Chord Sprint** — A browser-based piano chord trainer with MIDI input, real-time chord recognition, practice analytics, and external DAW routing. Its song-practice mode transcribes U-FRET chord sequences and synchronizes them to YouTube using U-FRET Video Plus beat maps or Songle timing, while live MIDI feedback shows whether the voicing is correct. It also includes a structured 14-day plan, practice history, a virtual keyboard, and MIDI output for tools such as Studio One.
 
-`React` `TypeScript` `Vite` `Web MIDI` `Web Audio`
+`React` `TypeScript` `Vite` `Web MIDI` `Web Audio` `FastAPI` `Python`
 
 [Live Demo](https://lizqxel.github.io/PianoPractice/) · [Repository](https://github.com/Lizqxel/PianoPractice)
 
