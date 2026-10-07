@@ -16,7 +16,7 @@
 
 ### [BCL Discord Bridge](https://github.com/Lizqxel/bcl-discord-bridge)
 
-[![上から見た Among Us のマップで、iPhone のプレイヤーを中心に聞こえる範囲 5.32 の円が描かれている。近くの赤は L .05 R .49、左の黄は L .34 R .02、閉じたドアの向こうの緑は 0、範囲外のピンクも 0。右側には iPhone、Discord、bcl-discord-bridge、BetterCrewLink Desktop をつなぐ音の経路](./assets/bcl-discord-bridge.png)](https://github.com/Lizqxel/bcl-discord-bridge)
+[![BCL Discord Bridge のアイコン。ヘッドセットをつけたシアンのクルーメイトが紫のタイルの上にいて、横に「BetterCrewLink と Discord をつなぐ中継アプリ」と書かれている](./assets/bcl-discord-bridge.png)](https://github.com/Lizqxel/bcl-discord-bridge)
 
 iPhone 1 台で Among Us をやると、ゲームに切り替えた瞬間に Safari のマイクが止まって、BetterCrewLink の近接ボイスチャットが使えません。そこでスマホの人には Discord の通話に入ってもらうだけにして、PC 側で 1 人ずつ専用の近接ミックスを作り、Discord 越しに返す中継アプリを作りました。
 
