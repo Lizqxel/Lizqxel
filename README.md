@@ -16,6 +16,8 @@
 
 ### [BCL Discord Bridge](https://github.com/Lizqxel/bcl-discord-bridge)
 
+[![上から見た Among Us のマップで、iPhone のプレイヤーを中心に聞こえる範囲 5.32 の円が描かれている。近くの赤は L .05 R .49、左の黄は L .34 R .02、閉じたドアの向こうの緑は 0、範囲外のピンクも 0。右側には iPhone、Discord、bcl-discord-bridge、BetterCrewLink Desktop をつなぐ音の経路](./assets/bcl-discord-bridge.png)](https://github.com/Lizqxel/bcl-discord-bridge)
+
 iPhone 1 台で Among Us をやると、ゲームに切り替えた瞬間に Safari のマイクが止まって、BetterCrewLink の近接ボイスチャットが使えません。そこでスマホの人には Discord の通話に入ってもらうだけにして、PC 側で 1 人ずつ専用の近接ミックスを作り、Discord 越しに返す中継アプリを作りました。
 
 聞こえ方は BetterCrewLink Desktop の音響処理を移植しています。距離による減衰と左右の定位、壁やドアでの遮断、ベントの中のこもった声、インポスター無線まで再現していて、減衰と定位は Web Audio の PannerNode と数値が一致することをテストで確かめています。Discord では Bot 1 体が同時に入れるボイスチャンネルが 1 つだけなので、スマホの人数ぶん Bot を立てる構成です。
@@ -31,6 +33,8 @@ iPhone 1 台で Among Us をやると、ゲームに切り替えた瞬間に Saf
 <sub>Python / PySide6 / Selenium / pywin32</sub>
 
 ### [ChainHardcore](https://github.com/Lizqxel/Minecraft-ChainHardcore-Plugin)
+
+[![夜の Minecraft で 4 人のプレイヤーがパーティクルの鎖でつながっている。画面中央に「鎖ハードコア開始」のタイトル、遠くの丘にいる Lizqxel との鎖だけが赤く伸びきっていて、手前のプレイヤーはダメージを受けている](./assets/chainhardcore.png)](https://github.com/Lizqxel/Minecraft-ChainHardcore-Plugin)
 
 プレイヤー同士を鎖でつなぐ Minecraft（Paper 1.21）のプラグインです。Chained Together のような遊びを、MOD もリソースパックも入れていないクライアントのまま遊べるようにしました。鎖はパーティクルで描き、離れると引き寄せられ、伸びきるとダメージ。誰か 1 人でも死んだら全員ゲームオーバーです。1 人で動作確認できるように、歩き回る村人を相手にするテストモードも入れています。
 
