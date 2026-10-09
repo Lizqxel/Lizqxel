@@ -24,14 +24,6 @@ iPhone 1 台で Among Us をやると、ゲームに切り替えた瞬間に Saf
 
 <sub>TypeScript / Node.js / discord.js / werift</sub>
 
-### [TelephoneTool](https://github.com/Lizqxel/TelephoneTool)
-
-コールセンター業務用の Windows アプリです。顧客情報をフォームに入れると CTI に貼るフォーマットを組み立て、住所から NTT 西日本の光回線の提供エリアを調べて結果まで書き込みます。1 件ごとに手でやっていたコピペとサイト検索を、ボタン 1 つにまとめました。
-
-住所リストを CSV で一括判定する [CTI-Precheck](https://github.com/Lizqxel/CTI-Precheck) もあります。
-
-<sub>Python / PySide6 / Selenium / pywin32</sub>
-
 ### [ChainHardcore](https://github.com/Lizqxel/Minecraft-ChainHardcore-Plugin)
 
 [![夜の Minecraft で 4 人のプレイヤーがパーティクルの鎖でつながっている。画面中央に「鎖ハードコア開始」のタイトル、遠くの丘にいる Lizqxel との鎖だけが赤く伸びきっていて、手前のプレイヤーはダメージを受けている](./assets/chainhardcore.png)](https://github.com/Lizqxel/Minecraft-ChainHardcore-Plugin)
